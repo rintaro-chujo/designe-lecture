@@ -4,7 +4,7 @@ sections:
     pages:
       - title: "今日のゴール"
         url: "/20260528/overview/"
-      - title: "何が作れるのか"
+      - title: "Codexとは"
         url: "/20260528/can-make/"
       - title: "Codexを準備する"
         url: "/20260528/setup/"
