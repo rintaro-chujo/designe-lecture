@@ -1,0 +1,14 @@
+title: "Codexで作ってみる教材"
+description: "Codexで、ほとんどなんでも作れる感覚を持つための自習型教材"
+baseurl: "/designe-lecture"
+url: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - "docs"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "vendor"
+  - ".bundle"
+  - ".DS_Store"
