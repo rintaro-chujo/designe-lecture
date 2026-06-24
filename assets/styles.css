@@ -460,17 +460,24 @@ textarea.large {
 
 /* 動画の埋め込みと、手順のスクリーンショット */
 .video-embed {
+  max-width: 78ch;
   margin: 1.2rem 0 1.6rem;
 }
 
 .video-embed video {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
   border-radius: 12px;
   border: 1px solid var(--line);
   background: #000;
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.14);
+}
+
+/* トップページ: カード一覧を本文テキストと同じ幅にそろえる（はみ出し防止） */
+.card-grid.narrow {
+  max-width: 78ch;
 }
 
 figure.shot {

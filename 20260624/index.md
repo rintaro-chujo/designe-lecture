@@ -23,7 +23,7 @@ next_url: "/20260624/mechanism/"
 
 この回では、作ったものを **GitHub** というサービスにアップロードし、**URL（`https://` から始まる住所）** を発行します。これで、URLを知っている人なら誰でも、どの端末からでもあなたのプロトタイプを開けるようになります。
 
-<div class="card-grid">
+<div class="card-grid narrow">
   <article class="card">
     <h3>1. 仕組みを知る</h3>
     <p>なぜURLが必要なのか、GitHubが何をしてくれるのかを、図で理解します。</p>
