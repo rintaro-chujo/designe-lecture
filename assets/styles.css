@@ -459,8 +459,8 @@ textarea.large {
 }
 
 /* 動画の埋め込みと、手順のスクリーンショット */
+/* 動画はmain幅いっぱい（本文より広いフル幅）。カードは本文幅にそろえる（.narrow）。 */
 .video-embed {
-  max-width: 78ch;
   margin: 1.2rem 0 1.6rem;
 }
 

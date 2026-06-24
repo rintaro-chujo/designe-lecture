@@ -6,8 +6,8 @@ vendor/
 .bundle/
 .DS_Store
 
-# 20260624: 元動画はGitHubの100MB制限を超えるため追跡しない（配信用に圧縮した media/movie.mp4 のみ公開）
-20260624/movie.mp4
-20260624/transcript.txt
-20260624/_frames/
+# github-pages: 元動画はGitHubの100MB制限を超えるため追跡しない（配信用に圧縮した media/movie.mp4 のみ公開）
+github-pages/movie.mp4
+github-pages/transcript.txt
+github-pages/_frames/
 _preview/
