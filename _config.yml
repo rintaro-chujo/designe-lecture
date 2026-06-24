@@ -12,3 +12,7 @@ exclude:
   - "vendor"
   - ".bundle"
   - ".DS_Store"
+  - "20260624/movie.mp4"
+  - "20260624/transcript.txt"
+  - "20260624/_frames"
+  - "test.html"

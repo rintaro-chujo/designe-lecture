@@ -1,4 +1,15 @@
 sections:
+  "20260624":
+    title: "作ったものにURLをつけて公開する"
+    pages:
+      - title: "仕組みを知る"
+        url: "/20260624/mechanism/"
+      - title: "GitHubアカウントを作る"
+        url: "/20260624/github-account/"
+      - title: "リポジトリを作ってURLをコピー"
+        url: "/20260624/repository/"
+      - title: "Codexにアップロードしてもらう"
+        url: "/20260624/codex/"
   "20260528":
     title: "Codexを使って（ほぼ）なんでも作れるようになる"
     pages:
@@ -10,10 +21,10 @@ sections:
         url: "/20260528/setup/"
       - title: "共通の制作フロー"
         url: "/20260528/workflow/"
-      - title: "AGENTS.mdを作る"
-        url: "/20260528/agents-md/"
       - title: "実際にサービスを作ってみる"
         url: "/20260528/examples/"
+      - title: "余裕があればAGENTS.md"
+        url: "/20260528/agents-md/"
       # - title: "2週間後までの課題"
       #   url: "/20260528/homework/"
       - title: "提出前チェック"
