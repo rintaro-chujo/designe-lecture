@@ -11,3 +11,7 @@ github-pages/movie.mp4
 github-pages/transcript.txt
 github-pages/_frames/
 _preview/
+
+# design: 元動画は大きいので、配信用に切り出した画像だけを公開する
+design/*.mov
+design/media/contact-sheet.jpg

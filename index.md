@@ -8,6 +8,13 @@ lead: "回ごとの自習教材です。受ける回を選んでください。"
 
 <div class="card-grid">
   <article class="card">
+    <h3>2026年7月2日</h3>
+    <p>ChatGPTで審査ボードの初稿を作り、Canvaで批判的に直してA3横の提出資料に仕上げます。</p>
+    <div class="toolbar">
+      <a class="button-link" href="{{ '/design/' | relative_url }}">この回を開く</a>
+    </div>
+  </article>
+  <article class="card">
     <h3>2026年6月24日</h3>
     <p>作ったものにURLをつけて、スマホや他の人からも開けるように公開します。</p>
     <div class="toolbar">

@@ -1,4 +1,9 @@
 sections:
+  "design":
+    title: "A3横の審査ボードを作る"
+    pages:
+      - title: "A3横の審査ボードを作る"
+        url: "/design/"
   "github-pages":
     title: "作ったものにURLをつけて公開する"
     pages:

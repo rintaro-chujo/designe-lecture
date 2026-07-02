@@ -15,4 +15,6 @@ exclude:
   - "github-pages/movie.mp4"
   - "github-pages/transcript.txt"
   - "github-pages/_frames"
+  - "design/*.mov"
+  - "design/media/contact-sheet.jpg"
   - "test.html"
